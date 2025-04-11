@@ -1,4 +1,4 @@
-Currently continuing work on my Facharbeit (German scientific paper)
+Just won Jugend Forscht Landeswettbewerb in Rhineland-Palatinate! Going to Hamburg!
 
 <!---
 kkulber/kkulber is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
